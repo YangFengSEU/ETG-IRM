@@ -67,3 +67,5 @@ python test_dg.py --config cfgs/DGPIC_<target_domain>.yaml --exp_name DGPIC_<tar
 ```
 
 -->
+
+Thank you for your interest in our project. If you have any questions, please feel free to contact us at yangfeng@seu.edu.cn. :-)
